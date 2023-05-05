@@ -9,6 +9,8 @@ The aim of this project was to develop a weather dashboard application that allo
 
 ## Live URL 
 
+https://slfdspln.github.io/weather-board/
+
 ## Screenshots 
 
 ![image](https://user-images.githubusercontent.com/121422214/228717067-12816f81-3af7-43f4-b1c3-aa715b0ae71b.png)
