@@ -21,7 +21,7 @@ This project utilizes HTML, CSS, JavaScript, Materialize, and OpenWeather API (s
 
 ## Installation
 
-Clone the repo: git clone 
+Clone the repo: git clone git@github.com:Slfdspln/weather-board.git
 
 Open in VS Code. If you do not have VS code you must install it.
 
