@@ -8,8 +8,8 @@ Week-6 Challenge
 The aim of this project was to develop a weather dashboard application that allows users to retrieve current and future weather conditions for any city in the world. To achieve this, I utilized my expertise in server-side API calls to extract real-time data and present it to users. The application displays both the current day forecast and a 5-day forecast, with each day represented by a unique weather icon. Temperature (in degrees Fahrenheit), wind (in MPH), and humidity (%) data are also provided. By default, the application loads Austin, TX, as the initial city. Through this project, I gained valuable experience in retrieving data from server-side APIs, using query-parameters when calling APIs, reformatting data for display, and leveraging JavaScript for functionality. Additionally, I learned how to effectively use the materialize CDN framework to create a visually appealing interface with grid layout and button functionality. This project underscored the importance of function reusability in software development.
 
 ## Live URL 
-
-https://slfdspln.github.io/weather-board/
+[
+https://slfdspln.github.io/Weather-Dashboard/
 
 ## Screenshots 
 
